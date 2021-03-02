@@ -50,7 +50,6 @@ faces = (
     (0, 1, 2, 3)
     )
 
-
 def Cube():
     glBegin(GL_LINES)
     for edge in edges:
