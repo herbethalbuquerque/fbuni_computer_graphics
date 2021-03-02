@@ -63,8 +63,7 @@ def Cube2(p, l):
         for vertex in face:
             v = (np.array(verticies[vertex]) + np.array(p)) * l
             glVertex3fv(v)
-    glEnd()    
-
+    glEnd()
 
 def main():
     pygame.init()
