@@ -1,1 +1,1 @@
-# Class task V1 - Letter "G" - FBUni - Computer Graphics
+# Class task V1 - FBUni - Computer Graphics
